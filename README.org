@@ -1,0 +1,10 @@
+* git-file-history
+
+View a file's git history, and individual commit info
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eudoxia0/git-file-history.git   |
+| commit  | 7a4c33f  |
+| systems | git-file-history |
+|---------+-------------------------------------------|
+
